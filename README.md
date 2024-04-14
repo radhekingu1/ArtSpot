@@ -27,7 +27,7 @@
 
 ## Getting Started
 
-1. Clone the repository: git clone https://github.com/your-radhekingu1/artspot.git
+1. Clone the repository: git clone https://github.com/radhekingu1/artspot.git
 2. Navigate to the project directory: cd artspot
 3. Restore dependencies: dotnet restore
 4. Update database: dotnet ef database update
