@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArtSpot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3b5c8c9530f91550aa833c551bf32c4ae67217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3c1bb1348e9d95f542fdb617aaf399586beb46e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArtSpot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArtSpot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
