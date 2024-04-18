@@ -9,47 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArtSpot
 build_property.RootNamespace = ArtSpot
-build_property.ProjectDir = C:\Users\rsc73\OneDrive\Documents\Desktop\ArtSpot\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\Desktop\ArtSpot\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rsc73\OneDrive\Documents\Desktop\ArtSpot
+build_property.MSBuildProjectDirectory = D:\Desktop\ArtSpot
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Home/Index.cshtml]
+[D:/Desktop/ArtSpot/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Home/Privacy.cshtml]
+[D:/Desktop/ArtSpot/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Shared/Error.cshtml]
+[D:/Desktop/ArtSpot/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Shared/_Login.cshtml]
+[D:/Desktop/ArtSpot/Views/Shared/_Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Shared/_Signup.cshtml]
+[D:/Desktop/ArtSpot/Views/Shared/_Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Desktop/ArtSpot/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/_ViewImports.cshtml]
+[D:/Desktop/ArtSpot/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/_ViewStart.cshtml]
+[D:/Desktop/ArtSpot/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rsc73/OneDrive/Documents/Desktop/ArtSpot/Views/Shared/_Layout.cshtml]
+[D:/Desktop/ArtSpot/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j1zsdhrwus
