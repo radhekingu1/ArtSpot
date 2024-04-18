@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\shared\\_signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\shared\\_signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\wwwroot\\js\\signup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:wwwroot\\js\\signup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|c:\\users\\rsc73\\onedrive\\documents\\desktop\\artspot\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4E49B2EF-3F8C-42DD-9D34-CF8F1D2351EA}|ArtSpot.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,6 +37,20 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:09:31.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -54,104 +60,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Signup.js",
-              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\js\\Signup.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Signup.js",
-              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\js\\Signup.js",
-              "RelativeToolTip": "wwwroot\\js\\Signup.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-14T18:42:29.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.js",
-              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\js\\Login.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Login.js",
-              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\js\\Login.js",
-              "RelativeToolTip": "wwwroot\\js\\Login.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-14T18:41:45.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-14T18:36:25.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Signup.css",
-              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\css\\Signup.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Signup.css",
-              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\css\\Signup.css",
-              "RelativeToolTip": "wwwroot\\css\\Signup.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-14T18:23:36.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-14T18:22:45.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Signup.cshtml",
-              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Signup.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Signup.cshtml",
-              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Signup.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Signup.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-14T18:14:53.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-14T17:55:55.96Z",
+              "WhenOpened": "2024-04-18T09:00:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:51:12.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:16:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:15:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Login.cshtml",
               "DocumentMoniker": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Login.cshtml",
               "ToolTip": "C:\\Users\\rsc73\\OneDrive\\Documents\\Desktop\\ArtSpot\\Views\\Shared\\_Login.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-14T17:55:14.889Z",
+              "WhenOpened": "2024-04-17T08:22:21.965Z",
               "EditorCaption": ""
             }
           ]

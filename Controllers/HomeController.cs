@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
+
 namespace ArtSpot.Controllers
 {
     public class HomeController : Controller
@@ -23,6 +24,10 @@ namespace ArtSpot.Controllers
             return View();
         }
 
+        public IActionResult Login()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

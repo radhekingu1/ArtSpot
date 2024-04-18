@@ -1,20 +1,96 @@
-﻿<link href="~/css/Login.css" rel="stylesheet" />
+﻿
 
-<h4 class="login">Login</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4 center">
-        <form>
-           
+<link href="~/css/Login.css/" rel="stylesheet" />
+<style>
+    .overlay {
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        background: rgb(182, 255, 0);
+        z-index: -1;
+        opacity: 0;
+    }
 
+    .showoverlay {
+        opacity: 1;
+        z-index: 1;
+    }
 
+    .loginform {
+        width: 350px;
+        padding: 30px 20px;
+        background-color: white;
+        position: absolute;
+        left: 50%;
+        top: -50%;
+        transform: translate(-50%, -50%);
+    }
 
-        </form>
-    </div>
+    .showloginform {
+        top: 50%;
+        z-index:9;
+    }
+
+    .loginform input {
+        width: 100%;
+        margin-bottom: 15px;
+        height: 35px;
+    }
+
+    .loginform span {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        color: white;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+        cursor: pointer;
+        background-color: blue;
+        text-align: center;
+    }
+</style>
+
+<div class="overlay"></div>
+
+<div class="loginform">
+    <span id="close">&times;</span>
+    <form action="#">
+        <div>
+            <label>User Name</label>
+            <input type="text"/>
+        </div>
+        <div>
+            <label>Password</label>
+            <input type="password" />
+        </div>
+    </form>
+
 </div>
+
+
+
 
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
-<script src="~/js/login.js"></script>
+<script src="~/js/login.js/"></script>
+<script>
+    function showModel() {
+        document.querySelector('.overlay').classList.add('showoverlay');
+        document.querySelector('.loginform').classList.add('showloginform');
+    }
+
+    function closeModel() {
+        document.querySelector('.overlay').classList.remove('showoverlay');
+        document.querySelector('.loginform').classList.remove('showloginform');
+    }
+
+    var btnlogin = document.querySelector(".login");
+    btnlogin.addEventListener("click", showModel);
+
+    var c = document.querySelector("#close");
+    c.addEventListener("click", closeModel);
+</script>

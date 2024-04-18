@@ -1,6 +1,5 @@
 /* _content/ArtSpot/Views/Shared/_Layout.cshtml.rz.scp.css */
-/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
+
 
 a.navbar-brand[b-j1zsdhrwus] {
   white-space: normal;
@@ -35,15 +34,85 @@ a[b-j1zsdhrwus] {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
-button.accept-policy[b-j1zsdhrwus] {
-  font-size: 1rem;
-  line-height: inherit;
+
+.sidebar[b-j1zsdhrwus] {
+    min-height: 800px;
+    
+    position:fixed;
 }
 
-.footer[b-j1zsdhrwus] {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+a[b-j1zsdhrwus] {
+    text-decoration: none;
+    color: black;
+}
+.logo[b-j1zsdhrwus] {
+    padding-left: 1vw;
+    font-size: 1.3em;
+}
+
+.main[b-j1zsdhrwus] {
+  
+    float:right;
+}
+
+.sidebar-content[b-j1zsdhrwus] {
+    display: grid;
+    padding-left: 1vw;
+    padding-top: 5vh;
+    grid-row-gap: 30px;
+    font-size: .8em;
+    
+}
+#ai[b-j1zsdhrwus] {
+    display: none;
+}
+
+@media only screen and (max-width: 786px) {
+    .logo[b-j1zsdhrwus]{
+        display:none;
+    }
+   #ai[b-j1zsdhrwus]{
+        display: inline;
+    }
+
+    .sidebar[b-j1zsdhrwus] {
+        width: 100%;
+        overflow: hidden;
+       
+    }
+
+
+    .sidebar-content[b-j1zsdhrwus] {
+        padding-top:5px;
+        background:white;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        border-top: 0.5px solid #dbdbdb;
+        grid-row-gap: 30px;
+        font-size: 1.6em;
+        position: fixed;
+        bottom: 0px;
+        align-items: center;
+        width: 100%;
+    }
+
+       
+    .main[b-j1zsdhrwus] {
+        float: none;
+        width:100%;
+    }
+    .sidebar-content a span[b-j1zsdhrwus]{
+        display:none;
+    }
+
+    #cart[b-j1zsdhrwus] {
+        display:none;
+    }
+    #message[b-j1zsdhrwus]{
+        display:none;
+
+    }
+   
+
 }

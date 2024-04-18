@@ -1,5 +1,4 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
+﻿
 
 a.navbar-brand {
   white-space: normal;
@@ -34,15 +33,85 @@ a {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
-button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+
+.sidebar {
+    min-height: 800px;
+    
+    position:fixed;
 }
 
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+a {
+    text-decoration: none;
+    color: black;
+}
+.logo {
+    padding-left: 1vw;
+    font-size: 1.3em;
+}
+
+.main {
+  
+    float:right;
+}
+
+.sidebar-content {
+    display: grid;
+    padding-left: 1vw;
+    padding-top: 5vh;
+    grid-row-gap: 30px;
+    font-size: .8em;
+    
+}
+#ai {
+    display: none;
+}
+
+@media only screen and (max-width: 786px) {
+    .logo{
+        display:none;
+    }
+   #ai{
+        display: inline;
+    }
+
+    .sidebar {
+        width: 100%;
+        overflow: hidden;
+       
+    }
+
+
+    .sidebar-content {
+        padding-top:5px;
+        background:white;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        border-top: 0.5px solid #dbdbdb;
+        grid-row-gap: 30px;
+        font-size: 1.6em;
+        position: fixed;
+        bottom: 0px;
+        align-items: center;
+        width: 100%;
+    }
+
+       
+    .main {
+        float: none;
+        width:100%;
+    }
+    .sidebar-content a span{
+        display:none;
+    }
+
+    #cart {
+        display:none;
+    }
+    #message{
+        display:none;
+
+    }
+   
+
 }
